@@ -4,6 +4,8 @@
 
 - 👨‍💻 Estou participando do meu primeiro BootCamp da <b>Dio</b>, confeço que estou aprendendo muito, e que todo esse comhecimento irá impactar na minha carreira com Programador!
 
+- Esse é meu Projeto do GitHub!
+
 -Segue abaixo algumas linguagens que conheço.
 
 <div style="display: inline_block"><br>
